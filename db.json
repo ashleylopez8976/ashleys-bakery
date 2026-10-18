@@ -1,0 +1,71 @@
+{
+  "store_info": {
+    "name": "Ashley’s Bakery",
+    "description": "Freshly baked treats and delicious drinks to brighten your day."
+  },
+  "products": [
+    {
+      "id": "1",
+      "name": "Blueberry Muffin",
+      "description": "A soft muffin filled with blueberries.",
+      "category": "Muffins",
+      "price": 3.5
+    },
+    {
+      "id": "2",
+      "name": "Chocolate Chip Muffin",
+      "description": "A fluffy muffin packed with chocolate chips.",
+      "category": "Muffins",
+      "price": 3.75
+    },
+    {
+      "id": "3",
+      "name": "Fresh Brewed Coffee",
+      "description": "A warm cup of freshly brewed coffee.",
+      "category": "Coffee",
+      "price": 2.5
+    },
+    {
+      "id": "4",
+      "name": "Vanilla Iced Coffee",
+      "description": "Chilled coffee with vanilla and milk.",
+      "category": "Coffee",
+      "price": 4
+    },
+    {
+      "id": "5",
+      "name": "Strawberry Banana Smoothie",
+      "description": "Strawberries and banana blended with yogurt.",
+      "category": "Smoothies",
+      "price": 5.5
+    },
+    {
+      "id": "6",
+      "name": "Chocolate Chip Cookie",
+      "description": "A buttery cookie with chocolate chips.",
+      "category": "Cookies",
+      "price": 2
+    },
+    {
+      "id": "7",
+      "name": "Sugar Cookie",
+      "description": "A soft sugar cookie topped with icing.",
+      "category": "Cookies",
+      "price": 2.25
+    },
+    {
+      "id": "8",
+      "name": "Classic Cinnamon Roll",
+      "description": "A cinnamon-filled roll with cream cheese icing.",
+      "category": "Cinnamon Rolls",
+      "price": 4.5
+    },
+    {
+      "name": "Banana Nut Muffin",
+      "description": "Delicious, moist Banana Nut Muffin",
+      "category": "Muffins",
+      "price": 3,
+      "id": "uoOPfW6"
+    }
+  ]
+}
